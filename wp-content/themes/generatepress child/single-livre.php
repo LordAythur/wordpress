@@ -38,7 +38,7 @@ $data = get_fields();
                                 <div>
                                     <div class="bouteille item">
                                         <h3><?php echo the_title(); ?></h3>
-                                        <p>par <?php echo get_field('_auteur'); ?></p>
+                                        <p>par <?php echo get_field('auteur'); ?></p>
                                     </div>
                                 </div>
                             <?php

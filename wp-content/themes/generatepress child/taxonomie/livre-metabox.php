@@ -12,13 +12,13 @@ function livres_metabox($post){
 
     echo '<label for="auteur" style="width=100%">Indiquer l\'auteur :</label>';
     echo '<br>';
-    echo '<input type="text" name="auteur">'.$auteur.'</input>';
+    echo '<input type="text" name="auteur" value='.$auteur.'></input>';
 
     echo '<br>';
     echo '<br>';
     echo '<label for="editions" style="width=100%">Indiquer l\'editeur :</label>';
     echo '<br>';
-    echo '<input type="text" name="editions">'.$editions.'</input>';
+    echo '<input type="text" name="editions" value="'.$editions.'" ></input>';
 }
 
 add_action('save_post','save_metabox_livre');

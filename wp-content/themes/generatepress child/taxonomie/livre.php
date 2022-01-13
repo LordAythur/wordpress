@@ -25,9 +25,7 @@ function my_custom_init(){
 
             'supports' => array(
                 'title',
-                'editor',
-                'thumbnail',
-                'custom-fields'
+                'custom-fields',               
             ),
         )
     );
