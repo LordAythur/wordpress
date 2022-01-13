@@ -11,8 +11,7 @@ get_header(); ?>
 
 <div class="container">
   	<div class="row">
-		  <div class="col-xl-8" style="background-color: blue;">TEST BOOTSTRAP</div>
-		  <button>Salut les amis</button>
+		  <div class="col-xl-8" style="background-color: blue;">CECI PROUVE QUE UN .JS ET UN .CSS EXTERIEUR ONT ETE MIS (BOOTSTRAP)</div>
 
 		  <?php the_content() ?>
 

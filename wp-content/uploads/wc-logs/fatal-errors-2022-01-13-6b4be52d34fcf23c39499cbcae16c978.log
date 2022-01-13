@@ -10,3 +10,25 @@ Stack trace:
 #7 {main}
   thrown dans C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\MailchimpScheduler.php à la ligne 90
 
+2022-01-13T20:46:03+00:00 CRITICAL Cannot redeclare init_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:10) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 4
+
+2022-01-13T20:46:03+00:00 CRITICAL Cannot redeclare init_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:10) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 4
+
+2022-01-13T20:46:04+00:00 CRITICAL Cannot redeclare init_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:10) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 4
+
+2022-01-13T20:46:04+00:00 CRITICAL Cannot redeclare init_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:10) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 4
+
+2022-01-13T20:46:16+00:00 CRITICAL Cannot redeclare save_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:32) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 25
+
+2022-01-13T20:46:18+00:00 CRITICAL Cannot redeclare save_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:32) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 25
+
+2022-01-13T20:46:18+00:00 CRITICAL Cannot redeclare save_metabox() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:32) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 25
+
+2022-01-13T20:47:40+00:00 CRITICAL Cannot redeclare afficher_citation() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:13) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 40
+
+2022-01-13T20:47:41+00:00 CRITICAL Cannot redeclare afficher_citation() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:13) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 40
+
+2022-01-13T20:47:41+00:00 CRITICAL Cannot redeclare afficher_citation() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:13) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 40
+
+2022-01-13T20:48:04+00:00 CRITICAL Cannot redeclare afficher_citation() (previously declared in C:\wamp64\www\wordpress\wp-content\themes\generatepress child\addons\metabox.php:13) dans C:\wamp64\www\wordpress\wp-content\themes\generatepress child\taxonomie\livre-metabox.php à la ligne 40
+
